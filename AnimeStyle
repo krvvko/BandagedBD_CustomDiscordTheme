@@ -8,7 +8,7 @@
     --unread-server-animation: rainbow;
     --hover-list-bg-color: rgba(255,255,255, .15);
     --border-lines-color: hsla(0,0%,100%,.1);
-    --scroll-bar-color: rgba(255,255,255, .6);
+    --scroll-bar-color: rgba(21,23,25,.95);
     --font-size: 16px;
     --selected-text-voice-color: rgb(255,255,255, .5);
     --text-hover-color: #b9bbbe;
