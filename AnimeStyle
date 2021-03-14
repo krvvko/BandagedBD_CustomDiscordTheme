@@ -1,0 +1,48 @@
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);:root {
+    --background-image: url(https://external-preview.redd.it/LxNJinK3AfJCoXgqfa9Xe5O7sErWqdIbgMwFj3RDQT4.jpg?auto=webp&s=4ba444ef26d9420e88cd5c5288805090dbea0efc);
+    --friends-icon: url(https://i.pinimg.com/564x/4a/b7/07/4ab707afe6c94d59329848baabe58447.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgb(129, 38, 172); 
+    --main-transparency: rgba(28, 28, 28, 0.7);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(255,255,255, .15);
+    --border-lines-color: hsla(0,0%,100%,.1);
+    --scroll-bar-color: rgba(255,255,255, .6);
+    --font-size: 16px;
+    --selected-text-voice-color: rgb(255,255,255, .5);
+    --text-hover-color: #b9bbbe;
+    --voice-hover-color: #f6f6f7;
+    --unread-text-color: #dcddde;
+    --options-transparency: transparent;
+}
+
+.userPopout-3XzG_A {
+    
+    background-color: rgba(21,23,25,.95);
+
+}
+
+.content-yTz4x3 {
+    
+    border-left: 2px solid rgba(21,23,25,.95);
+    
+}
+
+.membersWrap-2h-GB4 {
+    
+    border-left: 2px solid rgba(21,23,25,.95);    
+    
+}
+
+.scrollableContainer-2NUZem {
+    
+    background-color: rgba(21,23,25,.95);
+    
+}
+
+.wrapper-1Rf91z {
+    
+    border-left: 2px solid rgba(21,23,25,.95);    
+    
+}
